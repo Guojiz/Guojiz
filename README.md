@@ -2,9 +2,20 @@
 
 I build with AI, study how it changes power, and think about how humanity can remain sovereign in a world of increasingly capable machines.
 
-[Website](https://guojiz.github.io/) · [Bilibili](https://space.bilibili.com/3493114115263006) · [YouTube](https://youtube.com/@guojizh) · [X](https://x.com/guojizh)
+[Website](https://guojiz.github.io/) · [Bilibili](https://space.bilibili.com/3493114115263006) · [YouTube](https://youtube.com/@guojizh) · [X](https://x.com/guojizh) · [Sponsor](https://github.com/Guojiz/Sponsors)
 
 [简体中文版](./README.zh-CN.md)
+
+## Open-source projects with official websites
+
+These are the public product and documentation sites. The manuscript below is separate.
+
+| Project | Official website | Notes |
+| --- | --- | --- |
+| **[GitLearnOS](https://github.com/Guojiz/gitlearnos)** | [guojiz.github.io/gitlearnos](https://guojiz.github.io/gitlearnos/) | Learner-owned Git memory. Live product site. |
+| **[Word Snap](https://github.com/Guojiz/word-snap)** | [guojiz.github.io/word-snap](https://guojiz.github.io/word-snap/) | Bilingual vocabulary matching PWA. |
+| **[FastCUA](https://github.com/Guojiz/FastCUA)** | [guojiz.github.io/FastCUA](https://guojiz.github.io/FastCUA/) | Historical Windows computer-use docs. Development ended 19 Aug 2026; use [Cua](https://github.com/trycua/cua). |
+| **This site** | [guojiz.github.io](https://guojiz.github.io/) | Builder map and AI-safety manuscript. |
 
 ## Quantifying Everything, Non-Sovereignty, and Mirror Deterrence
 
