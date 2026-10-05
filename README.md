@@ -2,7 +2,7 @@
 
 I build with AI, study how it changes power, and think about how humanity can remain sovereign in a world of increasingly capable machines.
 
-[Website](https://guojiz.github.io/) · [Bilibili](https://space.bilibili.com/3493114115263006) · [YouTube](https://youtube.com/@guojizh) · [X](https://x.com/guojizh) · [Sponsor](https://github.com/Guojiz/Sponsors)
+[Website](https://guojiz.github.io/) · [Bilibili](https://space.bilibili.com/3493114115263006) · [YouTube](https://youtube.com/@guojizh) · [X](https://x.com/guojizh) · [Douyin](https://www.douyin.com/user/MS4wLjABAAAACGAJX48Y9fnttRtWdj9EhwpamUdbFRHQHNbxA9VSpmUOmAAZ4oYptS5uq6-4Nh-x) · [Sponsor](https://github.com/Guojiz/Sponsors)
 
 [简体中文版](./README.zh-CN.md)
 

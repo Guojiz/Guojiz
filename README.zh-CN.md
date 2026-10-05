@@ -2,7 +2,7 @@
 
 我用 AI 创造工具，研究它如何改变权力，并思考在机器能力不断增长的世界里，人类如何继续保有主权。
 
-[个人网站](https://guojiz.github.io/) · [哔哩哔哩](https://space.bilibili.com/3493114115263006) · [YouTube](https://youtube.com/@guojizh) · [X](https://x.com/guojizh) · [赞助](https://github.com/Guojiz/Sponsors)
+[个人网站](https://guojiz.github.io/) · [哔哩哔哩](https://space.bilibili.com/3493114115263006) · [YouTube](https://youtube.com/@guojizh) · [X](https://x.com/guojizh) · [抖音](https://www.douyin.com/user/MS4wLjABAAAACGAJX48Y9fnttRtWdj9EhwpamUdbFRHQHNbxA9VSpmUOmAAZ4oYptS5uq6-4Nh-x) · [赞助](https://github.com/Guojiz/Sponsors)
 
 [English](./README.md)
 
